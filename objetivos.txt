@@ -1,0 +1,17 @@
+Objetivo Global:
+
+1) Tener un Back-End para una RRSS estilo Instagram
+
+22/05/2024
+
+1) metodo de creacion de usuarios 
+2) metodo de autenticacion 
+
+
+
+3/jun/2024
+
+1) Crear un back end con seguridad 
+2) Json Web Token 
+3) Methodo de Autententicacion Bear
+4) Middleware de seguridad { /* Validar siempre que el token este activo */  }
